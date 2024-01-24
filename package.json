@@ -1,0 +1,19 @@
+{
+  "name": "cmb_mail_analyze",
+  "version": "0.0.1",
+  "description": "用于阿里云函数的 cmb 每日邮件分析器",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicat47/cmb_mail_analyze.git"
+  },
+  "author": "vicat47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicat47/cmb_mail_analyze/issues"
+  },
+  "homepage": "https://github.com/vicat47/cmb_mail_analyze#readme"
+}
