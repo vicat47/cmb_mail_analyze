@@ -16,7 +16,12 @@
     "url": "https://github.com/vicat47/cmb_mail_analyze/issues"
   },
   "homepage": "https://github.com/vicat47/cmb_mail_analyze#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
   "dependencies": {
-    "imapflow": "^1.0.148"
+    "config": "^3.3.10",
+    "imapflow": "^1.0.148",
+    "toml": "^3.0.0"
   }
 }

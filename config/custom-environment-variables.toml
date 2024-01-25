@@ -1,0 +1,8 @@
+[mail]
+host = "MAIL_HOST"
+port = "MAIL_PORT"
+secure = "SSL_ENABLED"
+
+[mail.auth]
+user = "MAIL_USER"
+pass = "MAIL_PASS"
