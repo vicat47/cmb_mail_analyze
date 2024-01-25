@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vicat47/cmb_mail_analyze/issues"
   },
-  "homepage": "https://github.com/vicat47/cmb_mail_analyze#readme"
+  "homepage": "https://github.com/vicat47/cmb_mail_analyze#readme",
+  "dependencies": {
+    "imapflow": "^1.0.148"
+  }
 }
